@@ -4,78 +4,472 @@
   "lastUpdated": "2026-02-12T12:00:00Z",
   "groups": {
     "stele": [
-      { "id": "stele_001", "name": "Стела 001", "file": "models/stele/stele_001.glb", "size": 43012, "thumbnail": "models/stele/thumbnails/stele_001.jpg" },
-      { "id": "stele_002", "name": "Стела 002", "file": "models/stele/stele_002.glb", "size": 43012, "thumbnail": "models/stele/thumbnails/stele_002.jpg" },
-      { "id": "stele_003", "name": "Стела 003", "file": "models/stele/stele_003.glb", "size": 43012, "thumbnail": "models/stele/thumbnails/stele_003.jpg" },
-      { "id": "stele_004", "name": "Стела 004", "file": "models/stele/stele_004.glb", "size": 43012, "thumbnail": "models/stele/thumbnails/stele_004.jpg" },
-      { "id": "stele_005", "name": "Стела 005", "file": "models/stele/stele_005.glb", "size": 43012, "thumbnail": "models/stele/thumbnails/stele_005.jpg" },
-      { "id": "stele_006", "name": "Стела 006", "file": "models/stele/stele_006.glb", "size": 43012, "thumbnail": "models/stele/thumbnails/stele_006.jpg" },
-      { "id": "stele_007", "name": "Стела 007", "file": "models/stele/stele_007.glb", "size": 43012, "thumbnail": "models/stele/thumbnails/stele_007.jpg" },
-      { "id": "stele_008", "name": "Стела 008", "file": "models/stele/stele_008.glb", "size": 43012, "thumbnail": "models/stele/thumbnails/stele_008.jpg" },
-      { "id": "stele_009", "name": "Стела 009", "file": "models/stele/stele_009.glb", "size": 43012, "thumbnail": "models/stele/thumbnails/stele_009.jpg" },
-      { "id": "stele_010", "name": "Стела 010", "file": "models/stele/stele_010.glb", "size": 43012, "thumbnail": "models/stele/thumbnails/stele_010.jpg" }
+      {
+        "id": "stele_001",
+        "name": "Стела 001",
+        "file": "models/stele/stele_001.glb",
+        "size": 43012,
+        "thumbnail": "models/stele/thumbnails/stele_001.jpg"
+      },
+      {
+        "id": "stele_002",
+        "name": "Стела 002",
+        "file": "models/stele/stele_002.glb",
+        "size": 43012,
+        "thumbnail": "models/stele/thumbnails/stele_002.jpg"
+      },
+      {
+        "id": "stele_003",
+        "name": "Стела 003",
+        "file": "models/stele/stele_003.glb",
+        "size": 43012,
+        "thumbnail": "models/stele/thumbnails/stele_003.jpg"
+      },
+      {
+        "id": "stele_004",
+        "name": "Стела 004",
+        "file": "models/stele/stele_004.glb",
+        "size": 43012,
+        "thumbnail": "models/stele/thumbnails/stele_004.jpg"
+      },
+      {
+        "id": "stele_005",
+        "name": "Стела 005",
+        "file": "models/stele/stele_005.glb",
+        "size": 43012,
+        "thumbnail": "models/stele/thumbnails/stele_005.jpg"
+      },
+      {
+        "id": "stele_006",
+        "name": "Стела 006",
+        "file": "models/stele/stele_006.glb",
+        "size": 43012,
+        "thumbnail": "models/stele/thumbnails/stele_006.jpg"
+      },
+      {
+        "id": "stele_007",
+        "name": "Стела 007",
+        "file": "models/stele/stele_007.glb",
+        "size": 43012,
+        "thumbnail": "models/stele/thumbnails/stele_007.jpg"
+      },
+      {
+        "id": "stele_008",
+        "name": "Стела 008",
+        "file": "models/stele/stele_008.glb",
+        "size": 43012,
+        "thumbnail": "models/stele/thumbnails/stele_008.jpg"
+      },
+      {
+        "id": "stele_009",
+        "name": "Стела 009",
+        "file": "models/stele/stele_009.glb",
+        "size": 43012,
+        "thumbnail": "models/stele/thumbnails/stele_009.jpg"
+      },
+      {
+        "id": "stele_010",
+        "name": "Стела 010",
+        "file": "models/stele/stele_010.glb",
+        "size": 43012,
+        "thumbnail": "models/stele/thumbnails/stele_010.jpg"
+      },
+      {
+        "name": "Подвійна з хрестами",
+        "file": "models/stele/Ф62.glb",
+        "thumbnail": "models/stele/thumbnails/Screenshot2.jpg"
+      }
     ],
     "gravePart": [
-      { "id": "grave_001", "name": "Надгробка 001", "file": "models/grave/grave_001.glb", "size": 43012, "thumbnail": "models/grave/thumbnails/grave_001.jpg" },
-      { "id": "grave_002", "name": "Надгробка 002", "file": "models/grave/grave_002.glb", "size": 43012, "thumbnail": "models/grave/thumbnails/grave_002.jpg" },
-      { "id": "grave_003", "name": "Надгробка 003", "file": "models/grave/grave_003.glb", "size": 43012, "thumbnail": "models/grave/thumbnails/grave_003.jpg" },
-      { "id": "grave_004", "name": "Надгробка 004", "file": "models/grave/grave_004.glb", "size": 43012, "thumbnail": "models/grave/thumbnails/grave_004.jpg" },
-      { "id": "grave_005", "name": "Надгробка 005", "file": "models/grave/grave_005.glb", "size": 43012, "thumbnail": "models/grave/thumbnails/grave_005.jpg" },
-      { "id": "grave_006", "name": "Надгробка 006", "file": "models/grave/grave_006.glb", "size": 43012, "thumbnail": "models/grave/thumbnails/grave_006.jpg" },
-      { "id": "grave_007", "name": "Надгробка 007", "file": "models/grave/grave_007.glb", "size": 43012, "thumbnail": "models/grave/thumbnails/grave_007.jpg" },
-      { "id": "grave_008", "name": "Надгробка 008", "file": "models/grave/grave_008.glb", "size": 43012, "thumbnail": "models/grave/thumbnails/grave_008.jpg" },
-      { "id": "grave_009", "name": "Надгробка 009", "file": "models/grave/grave_009.glb", "size": 43012, "thumbnail": "models/grave/thumbnails/grave_009.jpg" },
-      { "id": "grave_010", "name": "Надгробка 010", "file": "models/grave/grave_010.glb", "size": 43012, "thumbnail": "models/grave/thumbnails/grave_010.jpg" }
+      {
+        "id": "grave_001",
+        "name": "Надгробка 001",
+        "file": "models/grave/grave_001.glb",
+        "size": 43012,
+        "thumbnail": "models/grave/thumbnails/grave_001.jpg"
+      },
+      {
+        "id": "grave_002",
+        "name": "Надгробка 002",
+        "file": "models/grave/grave_002.glb",
+        "size": 43012,
+        "thumbnail": "models/grave/thumbnails/grave_002.jpg"
+      },
+      {
+        "id": "grave_003",
+        "name": "Надгробка 003",
+        "file": "models/grave/grave_003.glb",
+        "size": 43012,
+        "thumbnail": "models/grave/thumbnails/grave_003.jpg"
+      },
+      {
+        "id": "grave_004",
+        "name": "Надгробка 004",
+        "file": "models/grave/grave_004.glb",
+        "size": 43012,
+        "thumbnail": "models/grave/thumbnails/grave_004.jpg"
+      },
+      {
+        "id": "grave_005",
+        "name": "Надгробка 005",
+        "file": "models/grave/grave_005.glb",
+        "size": 43012,
+        "thumbnail": "models/grave/thumbnails/grave_005.jpg"
+      },
+      {
+        "id": "grave_006",
+        "name": "Надгробка 006",
+        "file": "models/grave/grave_006.glb",
+        "size": 43012,
+        "thumbnail": "models/grave/thumbnails/grave_006.jpg"
+      },
+      {
+        "id": "grave_007",
+        "name": "Надгробка 007",
+        "file": "models/grave/grave_007.glb",
+        "size": 43012,
+        "thumbnail": "models/grave/thumbnails/grave_007.jpg"
+      },
+      {
+        "id": "grave_008",
+        "name": "Надгробка 008",
+        "file": "models/grave/grave_008.glb",
+        "size": 43012,
+        "thumbnail": "models/grave/thumbnails/grave_008.jpg"
+      },
+      {
+        "id": "grave_009",
+        "name": "Надгробка 009",
+        "file": "models/grave/grave_009.glb",
+        "size": 43012,
+        "thumbnail": "models/grave/thumbnails/grave_009.jpg"
+      },
+      {
+        "id": "grave_010",
+        "name": "Надгробка 010",
+        "file": "models/grave/grave_010.glb",
+        "size": 43012,
+        "thumbnail": "models/grave/thumbnails/grave_010.jpg"
+      }
     ],
     "fence_decor": [
-      { "id": "fence_decor_001", "name": "Куля", "file": "fence/decor/fence_decor_001.glb", "thumbnail": "fence/decor/thumbnails/fence_decor_001.png" },
-      { "id": "fence_decor_002", "name": "Куля", "file": "fence/decor/fence_decor_002.glb", "thumbnail": "fence/decor/thumbnails/fence_decor_002.png" },
-      { "id": "fence_decor_003", "name": "Куб", "file": "fence/decor/fence_decor_003.glb", "thumbnail": "fence/decor/thumbnails/fence_decor_003.png" },
-      { "id": "fence_decor_004", "name": "Полум'я", "file": "fence/decor/fence_decor_004.glb", "thumbnail": "fence/decor/thumbnails/fence_decor_004.png" },
-      { "id": "fence_decor_005", "name": "Чаша", "file": "fence/decor/fence_decor_005.glb", "thumbnail": "fence/decor/thumbnails/fence_decor_005.png" },
-      { "id": "fence_decor_006", "name": "Піраміда", "file": "fence/decor/fence_decor_006.glb", "thumbnail": "fence/decor/thumbnails/fence_decor_006.png" },
-      { "id": "fence_decor_007", "name": "Декор", "file": "fence/decor/fence_decor_007.glb", "thumbnail": "fence/decor/thumbnails/fence_decor_007.jpg" }
+      {
+        "id": "fence_decor_001",
+        "name": "Куля",
+        "file": "fence/decor/fence_decor_001.glb",
+        "thumbnail": "fence/decor/thumbnails/fence_decor_001.png"
+      },
+      {
+        "id": "fence_decor_002",
+        "name": "Куля",
+        "file": "fence/decor/fence_decor_002.glb",
+        "thumbnail": "fence/decor/thumbnails/fence_decor_002.png"
+      },
+      {
+        "id": "fence_decor_003",
+        "name": "Куб",
+        "file": "fence/decor/fence_decor_003.glb",
+        "thumbnail": "fence/decor/thumbnails/fence_decor_003.png"
+      },
+      {
+        "id": "fence_decor_004",
+        "name": "Полум'я",
+        "file": "fence/decor/fence_decor_004.glb",
+        "thumbnail": "fence/decor/thumbnails/fence_decor_004.png"
+      },
+      {
+        "id": "fence_decor_005",
+        "name": "Чаша",
+        "file": "fence/decor/fence_decor_005.glb",
+        "thumbnail": "fence/decor/thumbnails/fence_decor_005.png"
+      },
+      {
+        "id": "fence_decor_006",
+        "name": "Піраміда",
+        "file": "fence/decor/fence_decor_006.glb",
+        "thumbnail": "fence/decor/thumbnails/fence_decor_006.png"
+      },
+      {
+        "id": "fence_decor_007",
+        "name": "Декор",
+        "file": "fence/decor/fence_decor_007.glb",
+        "thumbnail": "fence/decor/thumbnails/fence_decor_007.jpg"
+      }
     ],
     "fence_corner": [
-      { "id": "corner_001", "name": "Кутовий елемент 001", "file": "fence/corner/fence_corner_001.glb", "thumbnail": "fence/corner/thumbnails/fence_corner_001.jpg", "size": 1234, "tags": ["fence", "corner"] },
-      { "id": "corner_002", "name": "Кутовий елемент 002", "file": "fence/corner/fence_corner_002.glb", "thumbnail": "fence/corner/thumbnails/fence_corner_002.jpg", "size": 1234, "tags": ["fence", "corner"] },
-      { "id": "corner_003", "name": "Кутовий елемент 003", "file": "fence/corner/fence_corner_003.glb", "thumbnail": "fence/corner/thumbnails/fence_corner_003.jpg", "size": 1234, "tags": ["fence", "corner"] },
-      { "id": "corner_004", "name": "Кутовий елемент 004", "file": "fence/corner/fence_corner_004.glb", "thumbnail": "fence/corner/thumbnails/fence_corner_004.jpg", "size": 1234, "tags": ["fence", "corner"] },
-      { "id": "corner_005", "name": "Кутовий елемент 005", "file": "fence/corner/fence_corner_005.glb", "thumbnail": "fence/corner/thumbnails/fence_corner_005.jpg", "size": 1234, "tags": ["fence", "corner"] },
-      { "id": "corner_006", "name": "Кутовий елемент 006", "file": "fence/corner/fence_corner_006.glb", "thumbnail": "fence/corner/thumbnails/fence_corner_006.jpg", "size": 1234, "tags": ["fence", "corner"] }
+      {
+        "id": "corner_001",
+        "name": "Кутовий елемент 001",
+        "file": "fence/corner/fence_corner_001.glb",
+        "thumbnail": "fence/corner/thumbnails/fence_corner_001.jpg",
+        "size": 1234,
+        "tags": [
+          "fence",
+          "corner"
+        ]
+      },
+      {
+        "id": "corner_002",
+        "name": "Кутовий елемент 002",
+        "file": "fence/corner/fence_corner_002.glb",
+        "thumbnail": "fence/corner/thumbnails/fence_corner_002.jpg",
+        "size": 1234,
+        "tags": [
+          "fence",
+          "corner"
+        ]
+      },
+      {
+        "id": "corner_003",
+        "name": "Кутовий елемент 003",
+        "file": "fence/corner/fence_corner_003.glb",
+        "thumbnail": "fence/corner/thumbnails/fence_corner_003.jpg",
+        "size": 1234,
+        "tags": [
+          "fence",
+          "corner"
+        ]
+      },
+      {
+        "id": "corner_004",
+        "name": "Кутовий елемент 004",
+        "file": "fence/corner/fence_corner_004.glb",
+        "thumbnail": "fence/corner/thumbnails/fence_corner_004.jpg",
+        "size": 1234,
+        "tags": [
+          "fence",
+          "corner"
+        ]
+      },
+      {
+        "id": "corner_005",
+        "name": "Кутовий елемент 005",
+        "file": "fence/corner/fence_corner_005.glb",
+        "thumbnail": "fence/corner/thumbnails/fence_corner_005.jpg",
+        "size": 1234,
+        "tags": [
+          "fence",
+          "corner"
+        ]
+      },
+      {
+        "id": "corner_006",
+        "name": "Кутовий елемент 006",
+        "file": "fence/corner/fence_corner_006.glb",
+        "thumbnail": "fence/corner/thumbnails/fence_corner_006.jpg",
+        "size": 1234,
+        "tags": [
+          "fence",
+          "corner"
+        ]
+      }
     ],
     "column": [
-      { "id": "column_001", "name": "Колона 001", "file": "models/column/column_1.glb", "size": 1234, "thumbnail": "models/column/thumbnails/column_1.jpg" },
-      { "id": "column_002", "name": "Колона 002", "file": "models/column/column_2.glb", "size": 1450, "thumbnail": "models/column/thumbnails/column_2.jpg" },
-      { "id": "column_003", "name": "Колона 003", "file": "models/column/column_3.glb", "size": 1120, "thumbnail": "models/column/thumbnails/column_3.jpg" },
-      { "id": "column_004", "name": "Колона 004", "file": "models/column/column_4.glb", "size": 1380, "thumbnail": "models/column/thumbnails/column_4.jpg" },
-      { "id": "column_005", "name": "Колона 005", "file": "models/column/column_5.glb", "size": 1560, "thumbnail": "models/column/thumbnails/column_5.jpg" },
-      { "id": "column_006", "name": "Колона 006", "file": "models/column/column_6.glb", "size": 1295, "thumbnail": "models/column/thumbnails/column_6.jpg" },
-      { "id": "column_007", "name": "Колона 007", "file": "models/column/column_7.glb", "size": 1410, "thumbnail": "models/column/thumbnails/column_7.jpg" },
-      { "id": "column_008", "name": "Колона 008", "file": "models/column/column_8.glb", "size": 1185, "thumbnail": "models/column/thumbnails/column_8.jpg" },
-      { "id": "column_009", "name": "Колона 009", "file": "models/column/column_9.glb", "size": 1340, "thumbnail": "models/column/thumbnails/column_9.jpg" },
-      { "id": "column_010", "name": "Колона 010", "file": "models/column/column_10.glb", "size": 1620, "thumbnail": "models/column/thumbnails/column_10.jpg" },
-      { "id": "column_011", "name": "Колона 011", "file": "models/column/column_11.glb", "size": 1275, "thumbnail": "models/column/thumbnails/column_11.jpg" },
-      { "id": "column_012", "name": "Колона 012", "file": "models/column/column_12.glb", "size": 1490, "thumbnail": "models/column/thumbnails/column_12.jpg" },
-      { "id": "column_013", "name": "Колона 013", "file": "models/column/column_13.glb", "size": 1530, "thumbnail": "models/column/thumbnails/column_13.jpg" },
-      { "id": "column_014", "name": "Колона 014", "file": "models/column/column_14.glb", "size": 1315, "thumbnail": "models/column/thumbnails/column_14.jpg" }
+      {
+        "id": "column_001",
+        "name": "Колона 001",
+        "file": "models/column/column_1.glb",
+        "size": 1234,
+        "thumbnail": "models/column/thumbnails/column_1.jpg"
+      },
+      {
+        "id": "column_002",
+        "name": "Колона 002",
+        "file": "models/column/column_2.glb",
+        "size": 1450,
+        "thumbnail": "models/column/thumbnails/column_2.jpg"
+      },
+      {
+        "id": "column_003",
+        "name": "Колона 003",
+        "file": "models/column/column_3.glb",
+        "size": 1120,
+        "thumbnail": "models/column/thumbnails/column_3.jpg"
+      },
+      {
+        "id": "column_004",
+        "name": "Колона 004",
+        "file": "models/column/column_4.glb",
+        "size": 1380,
+        "thumbnail": "models/column/thumbnails/column_4.jpg"
+      },
+      {
+        "id": "column_005",
+        "name": "Колона 005",
+        "file": "models/column/column_5.glb",
+        "size": 1560,
+        "thumbnail": "models/column/thumbnails/column_5.jpg"
+      },
+      {
+        "id": "column_006",
+        "name": "Колона 006",
+        "file": "models/column/column_6.glb",
+        "size": 1295,
+        "thumbnail": "models/column/thumbnails/column_6.jpg"
+      },
+      {
+        "id": "column_007",
+        "name": "Колона 007",
+        "file": "models/column/column_7.glb",
+        "size": 1410,
+        "thumbnail": "models/column/thumbnails/column_7.jpg"
+      },
+      {
+        "id": "column_008",
+        "name": "Колона 008",
+        "file": "models/column/column_8.glb",
+        "size": 1185,
+        "thumbnail": "models/column/thumbnails/column_8.jpg"
+      },
+      {
+        "id": "column_009",
+        "name": "Колона 009",
+        "file": "models/column/column_9.glb",
+        "size": 1340,
+        "thumbnail": "models/column/thumbnails/column_9.jpg"
+      },
+      {
+        "id": "column_010",
+        "name": "Колона 010",
+        "file": "models/column/column_10.glb",
+        "size": 1620,
+        "thumbnail": "models/column/thumbnails/column_10.jpg"
+      },
+      {
+        "id": "column_011",
+        "name": "Колона 011",
+        "file": "models/column/column_11.glb",
+        "size": 1275,
+        "thumbnail": "models/column/thumbnails/column_11.jpg"
+      },
+      {
+        "id": "column_012",
+        "name": "Колона 012",
+        "file": "models/column/column_12.glb",
+        "size": 1490,
+        "thumbnail": "models/column/thumbnails/column_12.jpg"
+      },
+      {
+        "id": "column_013",
+        "name": "Колона 013",
+        "file": "models/column/column_13.glb",
+        "size": 1530,
+        "thumbnail": "models/column/thumbnails/column_13.jpg"
+      },
+      {
+        "id": "column_014",
+        "name": "Колона 014",
+        "file": "models/column/column_14.glb",
+        "size": 1315,
+        "thumbnail": "models/column/thumbnails/column_14.jpg"
+      }
     ],
     "additionalElements": [
-  { "id": "additional_001", "name": "Лампадка квыдрат нова", "file": "models/additional/additional_001.glb", "thumbnail": "models/additional/thumbnails/additional_001.jpg", "size": 82876 },
-  { "id": "additional_002", "name": "Лампадка кругла", "file": "models/additional/additional_002.glb", "thumbnail": "models/additional/thumbnails/additional_002.jpg", "size": 358256 },
-  { "id": "additional_003", "name": "Лампадка квадрат класична", "file": "models/additional/additional_003.glb", "thumbnail": "models/additional/thumbnails/additional_003.jpg", "size": 82876 },
-  { "id": "additional_004", "name": "Лампадка кругла нова", "file": "models/additional/additional_004.glb", "thumbnail": "models/additional/thumbnails/additional_004.jpg", "size": 358256 },
-  { "id": "additional_005", "name": "additional_005", "file": "models/additional/additional_005.glb", "thumbnail": "models/additional/thumbnails/additional_005.jpg", "size": 358256 },
-  { "id": "additional_006", "name": "additional_006", "file": "models/additional/additional_006.glb", "thumbnail": "models/additional/thumbnails/additional_006.jpg", "size": 82876 },
-  { "id": "additional_007", "name": "additional_007", "file": "models/additional/additional_007.glb", "thumbnail": "models/additional/thumbnails/additional_007.jpg", "size": 82876 },
-  { "id": "additional_008", "name": "additional_008", "file": "models/additional/additional_008.glb", "thumbnail": "models/additional/thumbnails/additional_008.jpg", "size": 82876 },
-  { "id": "additional_009", "name": "additional_009", "file": "models/additional/additional_009.glb", "thumbnail": "models/additional/thumbnails/additional_009.jpg", "size": 82876 },
-  { "id": "additional_010", "name": "additional_010", "file": "models/additional/additional_010.glb", "thumbnail": "models/additional/thumbnails/additional_010.jpg", "size": 82876 },
-  { "id": "additional_011", "name": "additional_011", "file": "models/additional/additional_011.glb", "thumbnail": "models/additional/thumbnails/additional_011.jpg", "size": 82876 },
-  { "id": "additional_012", "name": "additional_012", "file": "models/additional/additional_012.glb", "thumbnail": "models/additional/thumbnails/additional_012.jpg", "size": 82876 },
-  { "id": "additional_013", "name": "additional_013", "file": "models/additional/additional_013.glb", "thumbnail": "models/additional/thumbnails/additional_013.jpg", "size": 82876 },
-  { "id": "additional_014", "name": "additional_014", "file": "models/additional/additional_014.glb", "thumbnail": "models/additional/thumbnails/additional_014.jpg", "size": 82876 },
-  { "id": "additional_015", "name": "additional_015", "file": "models/additional/additional_015.glb", "thumbnail": "models/additional/thumbnails/additional_015.jpg", "size": 82876 }
-]
+      {
+        "id": "additional_001",
+        "name": "Лампадка квыдрат нова",
+        "file": "models/additional/additional_001.glb",
+        "thumbnail": "models/additional/thumbnails/additional_001.jpg",
+        "size": 82876
+      },
+      {
+        "id": "additional_002",
+        "name": "Лампадка кругла",
+        "file": "models/additional/additional_002.glb",
+        "thumbnail": "models/additional/thumbnails/additional_002.jpg",
+        "size": 358256
+      },
+      {
+        "id": "additional_003",
+        "name": "Лампадка квадрат класична",
+        "file": "models/additional/additional_003.glb",
+        "thumbnail": "models/additional/thumbnails/additional_003.jpg",
+        "size": 82876
+      },
+      {
+        "id": "additional_004",
+        "name": "Лампадка кругла нова",
+        "file": "models/additional/additional_004.glb",
+        "thumbnail": "models/additional/thumbnails/additional_004.jpg",
+        "size": 358256
+      },
+      {
+        "id": "additional_005",
+        "name": "additional_005",
+        "file": "models/additional/additional_005.glb",
+        "thumbnail": "models/additional/thumbnails/additional_005.jpg",
+        "size": 358256
+      },
+      {
+        "id": "additional_006",
+        "name": "additional_006",
+        "file": "models/additional/additional_006.glb",
+        "thumbnail": "models/additional/thumbnails/additional_006.jpg",
+        "size": 82876
+      },
+      {
+        "id": "additional_007",
+        "name": "additional_007",
+        "file": "models/additional/additional_007.glb",
+        "thumbnail": "models/additional/thumbnails/additional_007.jpg",
+        "size": 82876
+      },
+      {
+        "id": "additional_008",
+        "name": "additional_008",
+        "file": "models/additional/additional_008.glb",
+        "thumbnail": "models/additional/thumbnails/additional_008.jpg",
+        "size": 82876
+      },
+      {
+        "id": "additional_009",
+        "name": "additional_009",
+        "file": "models/additional/additional_009.glb",
+        "thumbnail": "models/additional/thumbnails/additional_009.jpg",
+        "size": 82876
+      },
+      {
+        "id": "additional_010",
+        "name": "additional_010",
+        "file": "models/additional/additional_010.glb",
+        "thumbnail": "models/additional/thumbnails/additional_010.jpg",
+        "size": 82876
+      },
+      {
+        "id": "additional_011",
+        "name": "additional_011",
+        "file": "models/additional/additional_011.glb",
+        "thumbnail": "models/additional/thumbnails/additional_011.jpg",
+        "size": 82876
+      },
+      {
+        "id": "additional_012",
+        "name": "additional_012",
+        "file": "models/additional/additional_012.glb",
+        "thumbnail": "models/additional/thumbnails/additional_012.jpg",
+        "size": 82876
+      },
+      {
+        "id": "additional_013",
+        "name": "additional_013",
+        "file": "models/additional/additional_013.glb",
+        "thumbnail": "models/additional/thumbnails/additional_013.jpg",
+        "size": 82876
+      },
+      {
+        "id": "additional_014",
+        "name": "additional_014",
+        "file": "models/additional/additional_014.glb",
+        "thumbnail": "models/additional/thumbnails/additional_014.jpg",
+        "size": 82876
+      },
+      {
+        "id": "additional_015",
+        "name": "additional_015",
+        "file": "models/additional/additional_015.glb",
+        "thumbnail": "models/additional/thumbnails/additional_015.jpg",
+        "size": 82876
+      }
+    ]
   }
 }
