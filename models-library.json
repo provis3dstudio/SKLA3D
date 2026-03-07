@@ -78,11 +78,6 @@
         "name": "Подвійна з хрестами",
         "file": "models/stele/Ф62.glb",
         "thumbnail": "models/stele/thumbnails/Screenshot2.jpg"
-      },
-      {
-        "name": "2222",
-        "file": "models/stele/F85.glb",
-        "thumbnail": "models/stele/thumbnails/auto_thumb.jpg"
       }
     ],
     "gravePart": [
