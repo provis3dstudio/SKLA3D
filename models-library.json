@@ -83,6 +83,11 @@
         "name": "32423432",
         "file": "models/stele/F85.glb",
         "thumbnail": "models/stele/thumbnails/auto_thumb.jpg"
+      },
+      {
+        "name": "24234",
+        "file": "models/stele/F85.glb",
+        "thumbnail": "models/stele/thumbnails/auto_thumb.jpg"
       }
     ],
     "gravePart": [
