@@ -84,12 +84,6 @@
         "name": "Тюльпан",
         "file": "models/stele/F85.glb",
         "thumbnail": "models/stele/thumbnails/Тюльпан.jpg"
-      },
-      {
-        "id": "stele_1773077472165",
-        "name": "A172",
-        "file": "models/stele/A172.glb",
-        "thumbnail": "models/stele/thumbnails/auto_thumb.jpg"
       }
     ],
     "gravePart": [
