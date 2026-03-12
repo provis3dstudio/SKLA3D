@@ -86,12 +86,6 @@
         "thumbnail": "models/stele/thumbnails/Тюльпан.jpg"
       },
       {
-        "id": "stele_1773319893671",
-        "name": "A194",
-        "file": "models/stele/A194.glb",
-        "thumbnail": "models/stele/thumbnails/auto_thumb.jpg"
-      },
-      {
         "id": "stele_1773320393446",
         "name": "A194F",
         "file": "models/stele/A194F.glb",
