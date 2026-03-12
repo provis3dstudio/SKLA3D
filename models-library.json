@@ -114,6 +114,12 @@
         "name": "A172",
         "file": "models/stele/A172.glb",
         "thumbnail": "models/stele/thumbnails/A172-1773341688378.jpg"
+      },
+      {
+        "id": "stele_1773341712228",
+        "name": "A172_F",
+        "file": "models/stele/A172_F.glb",
+        "thumbnail": "models/stele/thumbnails/A172_F-1773341706866.jpg"
       }
     ],
     "gravePart": [
