@@ -120,6 +120,12 @@
         "name": "A172_F",
         "file": "models/stele/A172_F.glb",
         "thumbnail": "models/stele/thumbnails/A172_F-1773341706866.jpg"
+      },
+      {
+        "id": "stele_1773341740046",
+        "name": "Ф62",
+        "file": "models/stele/Ф62.glb",
+        "thumbnail": "models/stele/thumbnails/62-1773341734711.jpg"
       }
     ],
     "gravePart": [
