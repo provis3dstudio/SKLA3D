@@ -126,6 +126,12 @@
         "name": "Ф62half",
         "file": "models/stele/Ф62half.glb",
         "thumbnail": "models/stele/thumbnails/62half-1773341754365.jpg"
+      },
+      {
+        "id": "stele_1773341835084",
+        "name": "F85",
+        "file": "models/stele/F85.glb",
+        "thumbnail": "models/stele/thumbnails/F85-1773341830818.jpg"
       }
     ],
     "gravePart": [
