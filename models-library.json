@@ -92,12 +92,6 @@
         "thumbnail": "models/stele/thumbnails/A193.jpg"
       },
       {
-        "id": "stele_1773319688615",
-        "name": "A193F",
-        "file": "models/stele/A193F.glb",
-        "thumbnail": "models/stele/thumbnails/auto_thumb.jpg"
-      },
-      {
         "id": "stele_1773319893671",
         "name": "A194",
         "file": "models/stele/A194.glb",
