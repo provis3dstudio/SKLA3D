@@ -96,6 +96,12 @@
         "name": "A193F",
         "file": "models/stele/A193F.glb",
         "thumbnail": "models/stele/thumbnails/A193F-1773334629276.jpg"
+      },
+      {
+        "id": "stele_1773341570278",
+        "name": "A193",
+        "file": "models/stele/A193.glb",
+        "thumbnail": "models/stele/thumbnails/A193-1773341564717.jpg"
       }
     ],
     "gravePart": [
