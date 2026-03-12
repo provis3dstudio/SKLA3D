@@ -102,6 +102,12 @@
         "name": "A193",
         "file": "models/stele/A193.glb",
         "thumbnail": "models/stele/thumbnails/A193-1773341564717.jpg"
+      },
+      {
+        "id": "stele_1773341670691",
+        "name": "A194",
+        "file": "models/stele/A194.glb",
+        "thumbnail": "models/stele/thumbnails/A194-1773341665988.jpg"
       }
     ],
     "gravePart": [
