@@ -80,12 +80,6 @@
         "thumbnail": "models/stele/thumbnails/Screenshot2.jpg"
       },
       {
-        "id": "stele_1773059742135",
-        "name": "Тюльпан",
-        "file": "models/stele/F85.glb",
-        "thumbnail": "models/stele/thumbnails/Тюльпан.jpg"
-      },
-      {
         "id": "stele_1773327107104",
         "name": "A194F",
         "file": "models/stele/A194F.glb",
@@ -132,12 +126,6 @@
         "name": "Ф62half",
         "file": "models/stele/Ф62half.glb",
         "thumbnail": "models/stele/thumbnails/62half-1773341754365.jpg"
-      },
-      {
-        "id": "stele_1773341780852",
-        "name": "F85",
-        "file": "models/stele/F85.glb",
-        "thumbnail": "models/stele/thumbnails/F85-1773341775636.jpg"
       }
     ],
     "gravePart": [
