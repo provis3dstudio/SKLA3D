@@ -523,6 +523,12 @@
         "file": "models/additional/additional_015.glb",
         "thumbnail": "models/additional/thumbnails/additional_015.jpg",
         "size": 82876
+      },
+      {
+        "id": "additionalElements_1773495056200",
+        "name": "Хрест",
+        "file": "models/additionalElements/1.glb",
+        "thumbnail": "models/additionalElements/thumbnails/auto_thumb-1773495049636.jpg"
       }
     ]
   }
