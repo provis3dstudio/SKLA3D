@@ -144,6 +144,12 @@
         "name": "S002",
         "file": "models/stele/S002.glb",
         "thumbnail": "models/stele/thumbnails/S002-1773656030927.jpg"
+      },
+      {
+        "id": "stele_1773656051040",
+        "name": "S003",
+        "file": "models/stele/S003.glb",
+        "thumbnail": "models/stele/thumbnails/S003-1773656046296.jpg"
       }
     ],
     "gravePart": [
