@@ -132,6 +132,12 @@
         "name": "F85",
         "file": "models/stele/F85.glb",
         "thumbnail": "models/stele/thumbnails/F85-1773341830818.jpg"
+      },
+      {
+        "id": "stele_1773656014516",
+        "name": "S001",
+        "file": "models/stele/S001.glb",
+        "thumbnail": "models/stele/thumbnails/S001-1773656005918.jpg"
       }
     ],
     "gravePart": [
