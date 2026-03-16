@@ -204,6 +204,12 @@
         "file": "models/grave/grave_010.glb",
         "size": 43012,
         "thumbnail": "models/grave/thumbnails/grave_010.jpg"
+      },
+      {
+        "id": "gravePart_1773655964890",
+        "name": "F001",
+        "file": "models/grave/F001.glb",
+        "thumbnail": "models/grave/thumbnails/F001-1773655958532.jpg"
       }
     ],
     "fence_decor": [
