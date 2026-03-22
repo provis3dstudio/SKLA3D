@@ -162,6 +162,12 @@
         "name": "Cross+flowers_F",
         "file": "models/stele/1_1.glb",
         "thumbnail": "models/stele/thumbnails/1_1-1774183175295.jpg"
+      },
+      {
+        "id": "stele_1774183876596",
+        "name": "1_2",
+        "file": "models/stele/1_2.glb",
+        "thumbnail": "models/stele/thumbnails/1_2-1774183870901.jpg"
       }
     ],
     "gravePart": [
