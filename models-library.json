@@ -168,6 +168,12 @@
         "name": "Хрест",
         "file": "models/stele/1.glb",
         "thumbnail": "models/stele/thumbnails/1-1774214228932.jpg"
+      },
+      {
+        "id": "stele_1774214288777",
+        "name": "ХрестF",
+        "file": "models/stele/1F.glb",
+        "thumbnail": "models/stele/thumbnails/F-1774214284693.jpg"
       }
     ],
     "gravePart": [
