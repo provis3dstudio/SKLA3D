@@ -198,6 +198,12 @@
         "name": "Cossacs_4",
         "file": "models/stele/Cossacs_4.glb",
         "thumbnail": "models/stele/thumbnails/Cossacs_4-1775822360139.jpg"
+      },
+      {
+        "id": "stele_1775822375492",
+        "name": "Cossacs_4_F",
+        "file": "models/stele/Cossacs_4_F.glb",
+        "thumbnail": "models/stele/thumbnails/Cossacs_4_F-1775822370860.jpg"
       }
     ],
     "gravePart": [
