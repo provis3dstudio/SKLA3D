@@ -180,6 +180,12 @@
         "name": "Cossacs",
         "file": "models/stele/Cossacs.glb",
         "thumbnail": "models/stele/thumbnails/Cossacs-1775822324562.jpg"
+      },
+      {
+        "id": "stele_1775822341803",
+        "name": "Cossacs_2",
+        "file": "models/stele/Cossacs_2.glb",
+        "thumbnail": "models/stele/thumbnails/Cossacs_2-1775822335036.jpg"
       }
     ],
     "gravePart": [
