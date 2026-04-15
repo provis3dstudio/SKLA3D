@@ -697,6 +697,12 @@
         "name": "5",
         "file": "models/additionalElements/5.glb",
         "thumbnail": "models/additionalElements/thumbnails/5-1776279455820.jpg"
+      },
+      {
+        "id": "additionalElements_1776279474039",
+        "name": "Table_1",
+        "file": "models/additionalElements/Table_1.glb",
+        "thumbnail": "models/additionalElements/thumbnails/Table_1-1776279470259.jpg"
       }
     ]
   }
