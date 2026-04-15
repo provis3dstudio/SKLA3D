@@ -448,6 +448,12 @@
           "fence",
           "corner"
         ]
+      },
+      {
+        "id": "fence_corner_1776279816681",
+        "name": "1",
+        "file": "models/fence/corner/1.glb",
+        "thumbnail": "models/fence/corner/thumbnails/1-1776279807539.jpg"
       }
     ],
     "column": [
