@@ -685,6 +685,12 @@
         "name": "3",
         "file": "models/additionalElements/3.glb",
         "thumbnail": "models/additionalElements/thumbnails/3-1776279431198.jpg"
+      },
+      {
+        "id": "additionalElements_1776279441971",
+        "name": "4",
+        "file": "models/additionalElements/4.glb",
+        "thumbnail": "models/additionalElements/thumbnails/4-1776279439278.jpg"
       }
     ]
   }
