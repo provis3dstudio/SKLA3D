@@ -673,6 +673,12 @@
         "name": "1",
         "file": "models/additionalElements/1.glb",
         "thumbnail": "models/additionalElements/thumbnails/1-1776279410745.jpg"
+      },
+      {
+        "id": "additionalElements_1776279425731",
+        "name": "2",
+        "file": "models/additionalElements/2.glb",
+        "thumbnail": "models/additionalElements/thumbnails/2-1776279423521.jpg"
       }
     ]
   }
