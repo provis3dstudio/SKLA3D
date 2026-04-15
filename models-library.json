@@ -709,6 +709,12 @@
         "name": "Table_1_F",
         "file": "models/additionalElements/Table_1_F.glb",
         "thumbnail": "models/additionalElements/thumbnails/Table_1_F-1776279484765.jpg"
+      },
+      {
+        "id": "additionalElements_1776279501147",
+        "name": "Table_2",
+        "file": "models/additionalElements/Table_2.glb",
+        "thumbnail": "models/additionalElements/thumbnails/Table_2-1776279496687.jpg"
       }
     ]
   }
