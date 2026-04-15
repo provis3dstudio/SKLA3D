@@ -330,6 +330,12 @@
         "name": "F001R",
         "file": "models/grave/F001R.glb",
         "thumbnail": "models/grave/thumbnails/F001R-1773655979007.jpg"
+      },
+      {
+        "id": "gravePart_1776279376575",
+        "name": "1",
+        "file": "models/grave/1.glb",
+        "thumbnail": "models/grave/thumbnails/1-1776279366566.jpg"
       }
     ],
     "fence_decor": [
