@@ -548,6 +548,12 @@
         "file": "models/column/column_14.glb",
         "size": 1315,
         "thumbnail": "models/column/thumbnails/column_14.jpg"
+      },
+      {
+        "id": "column_1776279396733",
+        "name": "Baluster_1",
+        "file": "models/column/Baluster_1.glb",
+        "thumbnail": "models/column/thumbnails/Baluster_1-1776279389261.jpg"
       }
     ],
     "additionalElements": [
