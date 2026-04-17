@@ -3078,6 +3078,12 @@
         "name": "Стели 666",
         "file": "models/stele/cn5b3c0f1f0a_tkf.glb",
         "thumbnail": "models/stele/thumbnails/666-1776432643362-smb.jpg"
+      },
+      {
+        "id": "stele_1776432649306_exjge",
+        "name": "Стели 667",
+        "file": "models/stele/cn896a6efda8_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/667-1776432647262-fd3.jpg"
       }
     ],
     "gravePart": [
