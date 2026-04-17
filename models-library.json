@@ -2292,6 +2292,12 @@
         "name": "Стели 535",
         "file": "models/stele/cn9f620f4c67_tkf.glb",
         "thumbnail": "models/stele/thumbnails/535-1776431930452-x0h.jpg"
+      },
+      {
+        "id": "stele_1776431936346_f472v",
+        "name": "Стели 536",
+        "file": "models/stele/cn4cdd72a214_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/536-1776431934453-nwh.jpg"
       }
     ],
     "gravePart": [
