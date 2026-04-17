@@ -498,6 +498,12 @@
         "name": "Стели 236",
         "file": "models/stele/cn318b2771bd_tkf.glb",
         "thumbnail": "models/stele/thumbnails/236-1776430726646-rcn.jpg"
+      },
+      {
+        "id": "stele_1776430731161_rmtrl",
+        "name": "Стели 237",
+        "file": "models/stele/cn8b05afa9f3_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/237-1776430729526-ks0.jpg"
       }
     ],
     "gravePart": [
