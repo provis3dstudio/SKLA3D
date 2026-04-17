@@ -2358,6 +2358,12 @@
         "name": "Стели 546",
         "file": "models/stele/cn78fdc04eb9_tkf.glb",
         "thumbnail": "models/stele/thumbnails/546-1776431974472-997.jpg"
+      },
+      {
+        "id": "stele_1776431980531_n2tsx",
+        "name": "Стели 547",
+        "file": "models/stele/cn4d5ebc47f2_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/547-1776431978451-jln.jpg"
       }
     ],
     "gravePart": [
