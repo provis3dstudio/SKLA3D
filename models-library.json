@@ -1800,6 +1800,12 @@
         "name": "Стели 453",
         "file": "models/stele/cn0b3f9ad5fb_tkf.glb",
         "thumbnail": "models/stele/thumbnails/453-1776431598459-2is.jpg"
+      },
+      {
+        "id": "stele_1776431604520_mm5iv",
+        "name": "Стели 454",
+        "file": "models/stele/cn7352e9591a_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/454-1776431602456-uxn.jpg"
       }
     ],
     "gravePart": [
