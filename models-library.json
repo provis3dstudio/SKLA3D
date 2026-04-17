@@ -828,6 +828,12 @@
         "name": "Стели 291",
         "file": "models/stele/cn568f5537e8_tkf.glb",
         "thumbnail": "models/stele/thumbnails/291-1776430917442-5um.jpg"
+      },
+      {
+        "id": "stele_1776430923333_5w57i",
+        "name": "Стели 292",
+        "file": "models/stele/cn5742158d14_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/292-1776430921450-32i.jpg"
       }
     ],
     "gravePart": [
