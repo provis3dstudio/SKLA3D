@@ -8034,6 +8034,12 @@
         "name": "Стели 1492",
         "file": "models/stele/cn2c6db7a244_tkf.glb",
         "thumbnail": "models/stele/thumbnails/1492-1776444229347-75o.jpg"
+      },
+      {
+        "id": "stele_1776444235383_rloav",
+        "name": "Стели 1493",
+        "file": "models/stele/cnce96bedde3_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/1493-1776444233355-47n.jpg"
       }
     ],
     "gravePart": [
