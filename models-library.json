@@ -5268,6 +5268,12 @@
         "name": "Стели 1031",
         "file": "models/stele/cn6691ffdc63_tkf.glb",
         "thumbnail": "models/stele/thumbnails/1031-1776435622703-qzp.jpg"
+      },
+      {
+        "id": "stele_1776435629040_ryavb",
+        "name": "Стели 1032",
+        "file": "models/stele/cnf9df9a3050_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/1032-1776435626824-467.jpg"
       }
     ],
     "gravePart": [
