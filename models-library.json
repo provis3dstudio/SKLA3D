@@ -727,6 +727,12 @@
         "name": "1",
         "file": "models/additionalElements/1.glb",
         "thumbnail": "models/additionalElements/thumbnails/1-1776279833280.jpg"
+      },
+      {
+        "id": "additionalElements_1776430164785_5qeel",
+        "name": "Додаткові елементи 016",
+        "file": "models/additional/df3ded1500b9_pf.glb",
+        "thumbnail": "models/additional/thumbnails/016-1776430163133-h9g.jpg"
       }
     ]
   }
