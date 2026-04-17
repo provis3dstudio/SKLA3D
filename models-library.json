@@ -3006,6 +3006,12 @@
         "name": "Стели 654",
         "file": "models/stele/cnff8c94f611_tkf.glb",
         "thumbnail": "models/stele/thumbnails/654-1776432592261-yec.jpg"
+      },
+      {
+        "id": "stele_1776432598081_gdbo2",
+        "name": "Стели 655",
+        "file": "models/stele/cn27ab60ae41_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/655-1776432595900-7ej.jpg"
       }
     ],
     "gravePart": [
