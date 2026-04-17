@@ -1992,6 +1992,12 @@
         "name": "Стели 485",
         "file": "models/stele/cnf0318ba361_tkf.glb",
         "thumbnail": "models/stele/thumbnails/485-1776431727453-qws.jpg"
+      },
+      {
+        "id": "stele_1776431733372_otsro",
+        "name": "Стели 486",
+        "file": "models/stele/cn4c45c5a913_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/486-1776431731450-qyk.jpg"
       }
     ],
     "gravePart": [
