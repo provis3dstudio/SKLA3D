@@ -1398,6 +1398,12 @@
         "name": "Стели 386",
         "file": "models/stele/cn13052c673f_tkf.glb",
         "thumbnail": "models/stele/thumbnails/386-1776431320456-qz8.jpg"
+      },
+      {
+        "id": "stele_1776431326326_amvyn",
+        "name": "Стели 387",
+        "file": "models/stele/cnbe8ce913f4_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/387-1776431324473-aek.jpg"
       }
     ],
     "gravePart": [
