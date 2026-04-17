@@ -3684,6 +3684,12 @@
         "name": "Стели 767",
         "file": "models/stele/cnb3dd3ed51b_tkf.glb",
         "thumbnail": "models/stele/thumbnails/767-1776434092706-9tl.jpg"
+      },
+      {
+        "id": "stele_1776434099510_ajwzh",
+        "name": "Стели 768",
+        "file": "models/stele/cn87f8222453_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/768-1776434097506-sc6.jpg"
       }
     ],
     "gravePart": [
