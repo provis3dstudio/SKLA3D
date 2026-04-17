@@ -6756,6 +6756,12 @@
         "name": "Стели 1279",
         "file": "models/stele/cn6b32c1d8ba_tkf.glb",
         "thumbnail": "models/stele/thumbnails/1279-1776436956140-pp7.jpg"
+      },
+      {
+        "id": "stele_1776436965084_xhend",
+        "name": "Стели 1280",
+        "file": "models/stele/cn2460d9c668_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/1280-1776436962870-o1p.jpg"
       }
     ],
     "gravePart": [
