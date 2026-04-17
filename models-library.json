@@ -3510,6 +3510,12 @@
         "name": "Стели 738",
         "file": "models/stele/cn03c790e5e6_tkf.glb",
         "thumbnail": "models/stele/thumbnails/738-1776433967420-tda.jpg"
+      },
+      {
+        "id": "stele_1776433973520_b7t0a",
+        "name": "Стели 739",
+        "file": "models/stele/cnffdfd81eaf_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/739-1776433971616-ha4.jpg"
       }
     ],
     "gravePart": [
