@@ -6906,6 +6906,12 @@
         "name": "Стели 1304",
         "file": "models/stele/cn2bd7b97326_tkf.glb",
         "thumbnail": "models/stele/thumbnails/1304-1776443435905-pig.jpg"
+      },
+      {
+        "id": "stele_1776443441767_1kxzb",
+        "name": "Стели 1305",
+        "file": "models/stele/cn7a1c9e7b9e_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/1305-1776443439686-r9e.jpg"
       }
     ],
     "gravePart": [
