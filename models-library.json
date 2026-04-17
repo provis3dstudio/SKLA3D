@@ -3090,6 +3090,12 @@
         "name": "Стели 668",
         "file": "models/stele/cnc3ba105bfc_tkf.glb",
         "thumbnail": "models/stele/thumbnails/668-1776432651085-nj2.jpg"
+      },
+      {
+        "id": "stele_1776432657474_tw534",
+        "name": "Стели 669",
+        "file": "models/stele/cnc512832607_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/669-1776432655340-ur8.jpg"
       }
     ],
     "gravePart": [
