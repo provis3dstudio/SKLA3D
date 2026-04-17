@@ -8160,6 +8160,12 @@
         "name": "Стели 1513",
         "file": "models/stele/cnb07716c12d_tkf.glb",
         "thumbnail": "models/stele/thumbnails/1513-1776444316833-erp.jpg"
+      },
+      {
+        "id": "stele_1776444323238_y802e",
+        "name": "Стели 1514",
+        "file": "models/stele/cn5687c584aa_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/1514-1776444321014-1wp.jpg"
       }
     ],
     "gravePart": [
