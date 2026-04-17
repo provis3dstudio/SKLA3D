@@ -2004,6 +2004,12 @@
         "name": "Стели 487",
         "file": "models/stele/cn62b9b5f75c_tkf.glb",
         "thumbnail": "models/stele/thumbnails/487-1776431735448-c4r.jpg"
+      },
+      {
+        "id": "stele_1776431741608_ltxju",
+        "name": "Стели 488",
+        "file": "models/stele/cn3d33df1192_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/488-1776431739469-bjp.jpg"
       }
     ],
     "gravePart": [
