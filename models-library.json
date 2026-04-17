@@ -8028,6 +8028,12 @@
         "name": "Стели 1491",
         "file": "models/stele/cn4622afbaff_tkf.glb",
         "thumbnail": "models/stele/thumbnails/1491-1776444224930-vyk.jpg"
+      },
+      {
+        "id": "stele_1776444231443_xvxxa",
+        "name": "Стели 1492",
+        "file": "models/stele/cn2c6db7a244_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/1492-1776444229347-75o.jpg"
       }
     ],
     "gravePart": [
