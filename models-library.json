@@ -2880,6 +2880,12 @@
         "name": "Стели 633",
         "file": "models/stele/cnaa40b856d0_tkf.glb",
         "thumbnail": "models/stele/thumbnails/633-1776432471477-17n.jpg"
+      },
+      {
+        "id": "stele_1776432477935_n04lt",
+        "name": "Стели 634",
+        "file": "models/stele/cnc0d13de173_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/634-1776432475992-ale.jpg"
       }
     ],
     "gravePart": [
