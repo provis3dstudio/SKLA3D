@@ -2958,6 +2958,12 @@
         "name": "Стели 646",
         "file": "models/stele/cn7d66e9a83d_tkf.glb",
         "thumbnail": "models/stele/thumbnails/646-1776432547447-mv4.jpg"
+      },
+      {
+        "id": "stele_1776432555272_s4dyh",
+        "name": "Стели 647",
+        "file": "models/stele/cn6cf0d6208a_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/647-1776432553302-jd4.jpg"
       }
     ],
     "gravePart": [
