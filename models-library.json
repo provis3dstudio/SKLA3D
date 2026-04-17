@@ -3948,6 +3948,12 @@
         "name": "Стели 811",
         "file": "models/stele/cn25f31d26b8_tkf.glb",
         "thumbnail": "models/stele/thumbnails/811-1776434277497-7ju.jpg"
+      },
+      {
+        "id": "stele_1776434283284_7oipu",
+        "name": "Стели 812",
+        "file": "models/stele/cn76a6bf39eb_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/812-1776434281479-l5z.jpg"
       }
     ],
     "gravePart": [
