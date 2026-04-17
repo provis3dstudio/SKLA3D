@@ -4230,6 +4230,12 @@
         "name": "Стели 858",
         "file": "models/stele/cn5f4ec8ff9f_tkf.glb",
         "thumbnail": "models/stele/thumbnails/858-1776434604954-kvo.jpg"
+      },
+      {
+        "id": "stele_1776434625991_hg4o7",
+        "name": "Стели 859",
+        "file": "models/stele/cn078fc0dd5b_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/859-1776434622894-j5y.jpg"
       }
     ],
     "gravePart": [
