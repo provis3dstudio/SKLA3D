@@ -6426,6 +6426,12 @@
         "name": "Стели 1224",
         "file": "models/stele/cnac8db7cc2c_tkf.glb",
         "thumbnail": "models/stele/thumbnails/1224-1776436599709-ahd.jpg"
+      },
+      {
+        "id": "stele_1776436608541_vvtec",
+        "name": "Стели 1225",
+        "file": "models/stele/cn5e0cbf0a20_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/1225-1776436606314-on2.jpg"
       }
     ],
     "gravePart": [
