@@ -3498,6 +3498,12 @@
         "name": "Стели 736",
         "file": "models/stele/cn2da5d0feda_tkf.glb",
         "thumbnail": "models/stele/thumbnails/736-1776433960121-w8e.jpg"
+      },
+      {
+        "id": "stele_1776433965496_seonx",
+        "name": "Стели 737",
+        "file": "models/stele/cna79e82b5d4_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/737-1776433963741-at0.jpg"
       }
     ],
     "gravePart": [
