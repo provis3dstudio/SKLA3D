@@ -3030,6 +3030,12 @@
         "name": "Стели 658",
         "file": "models/stele/cn61bad365ba_tkf.glb",
         "thumbnail": "models/stele/thumbnails/658-1776432608558-0i5.jpg"
+      },
+      {
+        "id": "stele_1776432615173_mf3pq",
+        "name": "Стели 659",
+        "file": "models/stele/cn8dc0c24a54_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/659-1776432612857-i87.jpg"
       }
     ],
     "gravePart": [
