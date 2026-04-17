@@ -7800,6 +7800,12 @@
         "name": "Стели 1453",
         "file": "models/stele/cn1beba47560_tkf.glb",
         "thumbnail": "models/stele/thumbnails/1453-1776444066126-sbc.jpg"
+      },
+      {
+        "id": "stele_1776444072499_6mkm1",
+        "name": "Стели 1454",
+        "file": "models/stele/cnd82f7af1c7_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/1454-1776444070379-v08.jpg"
       }
     ],
     "gravePart": [
