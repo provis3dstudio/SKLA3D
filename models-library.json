@@ -9739,6 +9739,12 @@
         "name": "Додаткові елементи 200",
         "file": "models/additional/cnc4a8bb15bf_sk.glb",
         "thumbnail": "models/additional/thumbnails/200-1776446792716-xh7.jpg"
+      },
+      {
+        "id": "additionalElements_1776446798135_acuob",
+        "name": "Додаткові елементи 201",
+        "file": "models/additional/cnc11fc697ab_sk.glb",
+        "thumbnail": "models/additional/thumbnails/201-1776446796437-umq.jpg"
       }
     ]
   }
