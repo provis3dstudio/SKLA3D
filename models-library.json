@@ -4002,6 +4002,12 @@
         "name": "Стели 820",
         "file": "models/stele/cn3c049bc723_tkf.glb",
         "thumbnail": "models/stele/thumbnails/820-1776434313485-v6j.jpg"
+      },
+      {
+        "id": "stele_1776434319283_t85mj",
+        "name": "Стели 821",
+        "file": "models/stele/cn78a7c32bf9_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/821-1776434317485-is9.jpg"
       }
     ],
     "gravePart": [
