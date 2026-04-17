@@ -9619,6 +9619,12 @@
         "name": "Додаткові елементи 180",
         "file": "models/additional/cn39cd58c80c_sk.glb",
         "thumbnail": "models/additional/thumbnails/180-1776446714533-ilm.jpg"
+      },
+      {
+        "id": "additionalElements_1776446720163_d66lp",
+        "name": "Додаткові елементи 181",
+        "file": "models/additional/cn61f56f12bf_sk.glb",
+        "thumbnail": "models/additional/thumbnails/181-1776446718153-pcl.jpg"
       }
     ]
   }
