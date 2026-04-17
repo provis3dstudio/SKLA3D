@@ -1710,6 +1710,12 @@
         "name": "Стели 438",
         "file": "models/stele/cn0b1048d753_tkf.glb",
         "thumbnail": "models/stele/thumbnails/438-1776431535454-m3x.jpg"
+      },
+      {
+        "id": "stele_1776431541777_vxkap",
+        "name": "Стели 439",
+        "file": "models/stele/cn70bb4bf6ca_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/439-1776431539454-q9t.jpg"
       }
     ],
     "gravePart": [
