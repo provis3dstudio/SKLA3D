@@ -3960,6 +3960,12 @@
         "name": "Стели 813",
         "file": "models/stele/cn4dfb66908c_tkf.glb",
         "thumbnail": "models/stele/thumbnails/813-1776434285478-st7.jpg"
+      },
+      {
+        "id": "stele_1776434291109_g3tdw",
+        "name": "Стели 814",
+        "file": "models/stele/cna13af529b6_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/814-1776434289487-klx.jpg"
       }
     ],
     "gravePart": [
