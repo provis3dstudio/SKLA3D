@@ -4962,6 +4962,12 @@
         "name": "Стели 980",
         "file": "models/stele/cn3ef5231ddb_tkf.glb",
         "thumbnail": "models/stele/thumbnails/980-1776435374940-elw.jpg"
+      },
+      {
+        "id": "stele_1776435383749_cofvn",
+        "name": "Стели 981",
+        "file": "models/stele/cn764b50adbe_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/981-1776435381555-da9.jpg"
       }
     ],
     "gravePart": [
