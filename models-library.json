@@ -3660,6 +3660,12 @@
         "name": "Стели 763",
         "file": "models/stele/cn648a3bccfa_tkf.glb",
         "thumbnail": "models/stele/thumbnails/763-1776434075505-jet.jpg"
+      },
+      {
+        "id": "stele_1776434081708_ukhkt",
+        "name": "Стели 764",
+        "file": "models/stele/cnda9225d6f8_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/764-1776434079372-b4c.jpg"
       }
     ],
     "gravePart": [
