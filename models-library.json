@@ -829,6 +829,12 @@
         "name": "Додаткові елементи 032",
         "file": "models/additional/df52478fcf19_pf.glb",
         "thumbnail": "models/additional/thumbnails/032-1776430241803-za9.jpg"
+      },
+      {
+        "id": "additionalElements_1776430246386_lv8nl",
+        "name": "Додаткові елементи 033",
+        "file": "models/additional/df61213eea10_pf.glb",
+        "thumbnail": "models/additional/thumbnails/033-1776430244924-820.jpg"
       }
     ]
   }
