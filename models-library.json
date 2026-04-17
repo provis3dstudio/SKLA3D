@@ -1818,6 +1818,12 @@
         "name": "Стели 456",
         "file": "models/stele/cn5af38beb96_tkf.glb",
         "thumbnail": "models/stele/thumbnails/456-1776431610457-6of.jpg"
+      },
+      {
+        "id": "stele_1776431616509_viv2k",
+        "name": "Стели 457",
+        "file": "models/stele/cn2b848beabc_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/457-1776431614461-u3q.jpg"
       }
     ],
     "gravePart": [
