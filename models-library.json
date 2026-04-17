@@ -9595,6 +9595,12 @@
         "name": "Додаткові елементи 176",
         "file": "models/additional/cn9a26c23df4_sk.glb",
         "thumbnail": "models/additional/thumbnails/176-1776446698951-wmo.jpg"
+      },
+      {
+        "id": "additionalElements_1776446705272_py82k",
+        "name": "Додаткові елементи 177",
+        "file": "models/additional/cn9c09efba37_sk.glb",
+        "thumbnail": "models/additional/thumbnails/177-1776446702947-tno.jpg"
       }
     ]
   }
