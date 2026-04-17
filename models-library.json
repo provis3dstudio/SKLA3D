@@ -8941,6 +8941,12 @@
         "name": "Додаткові елементи 067",
         "file": "models/additional/kf6e991cd0b5_drf.glb",
         "thumbnail": "models/additional/thumbnails/067-1776445927800-dhs.jpg"
+      },
+      {
+        "id": "additionalElements_1776445935152_kc3b1",
+        "name": "Додаткові елементи 068",
+        "file": "models/additional/kf6f34d4f91a_drf.glb",
+        "thumbnail": "models/additional/thumbnails/068-1776445932981-esc.jpg"
       }
     ]
   }
