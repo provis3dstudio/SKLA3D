@@ -1410,6 +1410,12 @@
         "name": "Стели 388",
         "file": "models/stele/cncc5d7a2096_tkf.glb",
         "thumbnail": "models/stele/thumbnails/388-1776431328483-b03.jpg"
+      },
+      {
+        "id": "stele_1776431334345_3guj0",
+        "name": "Стели 389",
+        "file": "models/stele/cnc7983ccfaa_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/389-1776431332470-aj6.jpg"
       }
     ],
     "gravePart": [
