@@ -2364,6 +2364,12 @@
         "name": "Стели 547",
         "file": "models/stele/cn4d5ebc47f2_tkf.glb",
         "thumbnail": "models/stele/thumbnails/547-1776431978451-jln.jpg"
+      },
+      {
+        "id": "stele_1776431984671_5yurd",
+        "name": "Стели 548",
+        "file": "models/stele/cn9116dc6e0f_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/548-1776431982476-anz.jpg"
       }
     ],
     "gravePart": [
