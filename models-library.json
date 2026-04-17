@@ -3564,6 +3564,12 @@
         "name": "Стели 747",
         "file": "models/stele/cn5336fea057_tkf.glb",
         "thumbnail": "models/stele/thumbnails/747-1776434003486-ngf.jpg"
+      },
+      {
+        "id": "stele_1776434010113_cjd2m",
+        "name": "Стели 748",
+        "file": "models/stele/cnceb3eccc36_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/748-1776434007882-nrh.jpg"
       }
     ],
     "gravePart": [
