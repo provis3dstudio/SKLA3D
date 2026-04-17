@@ -8106,6 +8106,12 @@
         "name": "Стели 1504",
         "file": "models/stele/cne60a1cf918_tkf.glb",
         "thumbnail": "models/stele/thumbnails/1504-1776444279251-vu3.jpg"
+      },
+      {
+        "id": "stele_1776444285246_5v4bm",
+        "name": "Стели 1505",
+        "file": "models/stele/cn11fa72c0ad_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/1505-1776444283132-29w.jpg"
       }
     ],
     "gravePart": [
