@@ -9451,6 +9451,12 @@
         "name": "Додаткові елементи 152",
         "file": "models/additional/kfece18ea721_drf.glb",
         "thumbnail": "models/additional/thumbnails/152-1776446343398-gpf.jpg"
+      },
+      {
+        "id": "additionalElements_1776446351049_nnwmg",
+        "name": "Додаткові елементи 153",
+        "file": "models/additional/kff1b0d5acc6_drf.glb",
+        "thumbnail": "models/additional/thumbnails/153-1776446348283-6az.jpg"
       }
     ]
   }
