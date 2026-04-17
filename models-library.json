@@ -6036,6 +6036,12 @@
         "name": "Стели 1159",
         "file": "models/stele/cn2e71b3c524_tkf.glb",
         "thumbnail": "models/stele/thumbnails/1159-1776436183890-a4r.jpg"
+      },
+      {
+        "id": "stele_1776436190171_v1arc",
+        "name": "Стели 1160",
+        "file": "models/stele/cnbba2d79200_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/1160-1776436188050-fsz.jpg"
       }
     ],
     "gravePart": [
