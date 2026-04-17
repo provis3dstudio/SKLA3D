@@ -1986,6 +1986,12 @@
         "name": "Стели 484",
         "file": "models/stele/cnfd682d7db4_tkf.glb",
         "thumbnail": "models/stele/thumbnails/484-1776431723456-0dt.jpg"
+      },
+      {
+        "id": "stele_1776431729592_81eak",
+        "name": "Стели 485",
+        "file": "models/stele/cnf0318ba361_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/485-1776431727453-qws.jpg"
       }
     ],
     "gravePart": [
