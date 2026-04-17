@@ -9163,6 +9163,12 @@
         "name": "Додаткові елементи 104",
         "file": "models/additional/kf746d330abe_drf.glb",
         "thumbnail": "models/additional/thumbnails/104-1776446101463-mtq.jpg"
+      },
+      {
+        "id": "additionalElements_1776446109769_vdb1o",
+        "name": "Додаткові елементи 105",
+        "file": "models/additional/kf3267bc16ee_drf.glb",
+        "thumbnail": "models/additional/thumbnails/105-1776446107443-yfa.jpg"
       }
     ]
   }
