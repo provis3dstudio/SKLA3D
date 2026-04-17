@@ -1956,6 +1956,12 @@
         "name": "Стели 479",
         "file": "models/stele/cn8432ea2841_tkf.glb",
         "thumbnail": "models/stele/thumbnails/479-1776431702458-zxe.jpg"
+      },
+      {
+        "id": "stele_1776431708518_pqnzb",
+        "name": "Стели 480",
+        "file": "models/stele/cn6b37616595_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/480-1776431706456-o4d.jpg"
       }
     ],
     "gravePart": [
