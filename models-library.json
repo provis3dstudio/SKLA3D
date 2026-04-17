@@ -3198,6 +3198,12 @@
         "name": "Стели 686",
         "file": "models/stele/cnaa0bacab8b_tkf.glb",
         "thumbnail": "models/stele/thumbnails/686-1776433777026-txi.jpg"
+      },
+      {
+        "id": "stele_1776433782055_b1h0h",
+        "name": "Стели 687",
+        "file": "models/stele/cn475a7358c3_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/687-1776433780213-pf4.jpg"
       }
     ],
     "gravePart": [
