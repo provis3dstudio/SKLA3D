@@ -1932,6 +1932,12 @@
         "name": "Стели 475",
         "file": "models/stele/cn8cc76a0477_tkf.glb",
         "thumbnail": "models/stele/thumbnails/475-1776431686485-ems.jpg"
+      },
+      {
+        "id": "stele_1776431692328_leh90",
+        "name": "Стели 476",
+        "file": "models/stele/cn1e32cfb013_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/476-1776431690458-10e.jpg"
       }
     ],
     "gravePart": [
