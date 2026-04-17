@@ -7662,6 +7662,12 @@
         "name": "Стели 1430",
         "file": "models/stele/cn11520725ea_tkf.glb",
         "thumbnail": "models/stele/thumbnails/1430-1776443969015-qsh.jpg"
+      },
+      {
+        "id": "stele_1776443975428_suaol",
+        "name": "Стели 1431",
+        "file": "models/stele/cn69d9f43075_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/1431-1776443973080-1at.jpg"
       }
     ],
     "gravePart": [
