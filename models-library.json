@@ -4884,6 +4884,12 @@
         "name": "Стели 967",
         "file": "models/stele/cnb52622f141_tkf.glb",
         "thumbnail": "models/stele/thumbnails/967-1776435287470-1xl.jpg"
+      },
+      {
+        "id": "stele_1776435295649_1xt7n",
+        "name": "Стели 968",
+        "file": "models/stele/cn27d697662c_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/968-1776435293550-zhr.jpg"
       }
     ],
     "gravePart": [
