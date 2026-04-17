@@ -3930,6 +3930,12 @@
         "name": "Стели 808",
         "file": "models/stele/cn4392e43b9d_tkf.glb",
         "thumbnail": "models/stele/thumbnails/808-1776434265517-6nt.jpg"
+      },
+      {
+        "id": "stele_1776434271402_0i97z",
+        "name": "Стели 809",
+        "file": "models/stele/cn16fdc9cb84_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/809-1776434269480-7cn.jpg"
       }
     ],
     "gravePart": [
