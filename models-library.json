@@ -2232,6 +2232,12 @@
         "name": "Стели 525",
         "file": "models/stele/cn9d994b10ee_tkf.glb",
         "thumbnail": "models/stele/thumbnails/525-1776431889454-wls.jpg"
+      },
+      {
+        "id": "stele_1776431895429_vlaau",
+        "name": "Стели 526",
+        "file": "models/stele/cnc0f09823a5_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/526-1776431893446-2f2.jpg"
       }
     ],
     "gravePart": [
