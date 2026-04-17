@@ -2010,6 +2010,12 @@
         "name": "Стели 488",
         "file": "models/stele/cn3d33df1192_tkf.glb",
         "thumbnail": "models/stele/thumbnails/488-1776431739469-bjp.jpg"
+      },
+      {
+        "id": "stele_1776431745429_yldz2",
+        "name": "Стели 489",
+        "file": "models/stele/cnf25eada37f_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/489-1776431743458-9f4.jpg"
       }
     ],
     "gravePart": [
