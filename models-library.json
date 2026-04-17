@@ -4620,6 +4620,12 @@
         "name": "Стели 923",
         "file": "models/stele/cn4b61091978_tkf.glb",
         "thumbnail": "models/stele/thumbnails/923-1776435076396-sko.jpg"
+      },
+      {
+        "id": "stele_1776435081748_br0di",
+        "name": "Стели 924",
+        "file": "models/stele/cnb6343ba97a_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/924-1776435080119-bom.jpg"
       }
     ],
     "gravePart": [
