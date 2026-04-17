@@ -5076,6 +5076,12 @@
         "name": "Стели 999",
         "file": "models/stele/cnd9db1e1f74_tkf.glb",
         "thumbnail": "models/stele/thumbnails/999-1776435486174-h8h.jpg"
+      },
+      {
+        "id": "stele_1776435493052_ffntp",
+        "name": "Стели 1000",
+        "file": "models/stele/cna9a07da77b_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/1000-1776435490535-laf.jpg"
       }
     ],
     "gravePart": [
