@@ -1308,6 +1308,12 @@
         "name": "Стели 371",
         "file": "models/stele/cnbdad5220a6_tkf.glb",
         "thumbnail": "models/stele/thumbnails/371-1776431258450-159.jpg"
+      },
+      {
+        "id": "stele_1776431264250_1uagc",
+        "name": "Стели 372",
+        "file": "models/stele/cn4092549699_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/372-1776431262446-ute.jpg"
       }
     ],
     "gravePart": [
