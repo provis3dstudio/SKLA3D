@@ -1968,6 +1968,12 @@
         "name": "Стели 481",
         "file": "models/stele/cnc0a73bc9a4_tkf.glb",
         "thumbnail": "models/stele/thumbnails/481-1776431710459-5y4.jpg"
+      },
+      {
+        "id": "stele_1776431716367_hxpxp",
+        "name": "Стели 482",
+        "file": "models/stele/cn9714193c83_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/482-1776431714444-4fv.jpg"
       }
     ],
     "gravePart": [
