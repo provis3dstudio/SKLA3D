@@ -1908,6 +1908,12 @@
         "name": "Стели 471",
         "file": "models/stele/cnf269aa6806_tkf.glb",
         "thumbnail": "models/stele/thumbnails/471-1776431670452-ywd.jpg"
+      },
+      {
+        "id": "stele_1776431676345_vab0e",
+        "name": "Стели 472",
+        "file": "models/stele/cnf696c9b149_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/472-1776431674460-lfb.jpg"
       }
     ],
     "gravePart": [
