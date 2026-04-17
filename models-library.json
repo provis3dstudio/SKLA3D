@@ -9763,6 +9763,12 @@
         "name": "Додаткові елементи 204",
         "file": "models/additional/cndc17381280_sk.glb",
         "thumbnail": "models/additional/thumbnails/204-1776446808698-gan.jpg"
+      },
+      {
+        "id": "additionalElements_1776446815326_uoktf",
+        "name": "Додаткові елементи 205",
+        "file": "models/additional/cne3fb5d6dbd_sk.glb",
+        "thumbnail": "models/additional/thumbnails/205-1776446813058-oap.jpg"
       }
     ]
   }
