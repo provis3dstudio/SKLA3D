@@ -1998,6 +1998,12 @@
         "name": "Стели 486",
         "file": "models/stele/cn4c45c5a913_tkf.glb",
         "thumbnail": "models/stele/thumbnails/486-1776431731450-qyk.jpg"
+      },
+      {
+        "id": "stele_1776431737407_5363z",
+        "name": "Стели 487",
+        "file": "models/stele/cn62b9b5f75c_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/487-1776431735448-c4r.jpg"
       }
     ],
     "gravePart": [
