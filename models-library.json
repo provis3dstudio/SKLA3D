@@ -7656,6 +7656,12 @@
         "name": "Стели 1429",
         "file": "models/stele/cn2fb1f077c6_tkf.glb",
         "thumbnail": "models/stele/thumbnails/1429-1776443964673-383.jpg"
+      },
+      {
+        "id": "stele_1776443971271_vjc59",
+        "name": "Стели 1430",
+        "file": "models/stele/cn11520725ea_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/1430-1776443969015-qsh.jpg"
       }
     ],
     "gravePart": [
