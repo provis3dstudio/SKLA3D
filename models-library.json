@@ -4578,6 +4578,12 @@
         "name": "Стели 916",
         "file": "models/stele/cn6d6eb8ce08_tkf.glb",
         "thumbnail": "models/stele/thumbnails/916-1776435051218-iv6.jpg"
+      },
+      {
+        "id": "stele_1776435056521_duetz",
+        "name": "Стели 917",
+        "file": "models/stele/cn1ae4f2ae29_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/917-1776435054776-lc0.jpg"
       }
     ],
     "gravePart": [
