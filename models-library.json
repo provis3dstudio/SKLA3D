@@ -6300,6 +6300,12 @@
         "name": "Стели 1203",
         "file": "models/stele/cnc3549186e7_tkf.glb",
         "thumbnail": "models/stele/thumbnails/1203-1776436465152-u2b.jpg"
+      },
+      {
+        "id": "stele_1776436473654_dvc36",
+        "name": "Стели 1204",
+        "file": "models/stele/cnf7b468c888_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/1204-1776436471467-2lo.jpg"
       }
     ],
     "gravePart": [
