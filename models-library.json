@@ -2610,6 +2610,12 @@
         "name": "Стели 588",
         "file": "models/stele/cn19fa9249f5_tkf.glb",
         "thumbnail": "models/stele/thumbnails/588-1776432197152-tvg.jpg"
+      },
+      {
+        "id": "stele_1776432204876_hrutr",
+        "name": "Стели 589",
+        "file": "models/stele/cna17bf2e9e8_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/589-1776432202855-wac.jpg"
       }
     ],
     "gravePart": [
