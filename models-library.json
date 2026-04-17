@@ -1632,6 +1632,12 @@
         "name": "Стели 425",
         "file": "models/stele/cn208af159d5_tkf.glb",
         "thumbnail": "models/stele/thumbnails/425-1776431481445-lb7.jpg"
+      },
+      {
+        "id": "stele_1776431487525_jiuam",
+        "name": "Стели 426",
+        "file": "models/stele/cneb4e80bf4e_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/426-1776431485447-2pr.jpg"
       }
     ],
     "gravePart": [
