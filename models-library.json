@@ -4524,6 +4524,12 @@
         "name": "Стели 907",
         "file": "models/stele/cn2054be52e9_tkf.glb",
         "thumbnail": "models/stele/thumbnails/907-1776435018051-q8x.jpg"
+      },
+      {
+        "id": "stele_1776435023287_zf4t8",
+        "name": "Стели 908",
+        "file": "models/stele/cnc370fb0349_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/908-1776435021491-1xw.jpg"
       }
     ],
     "gravePart": [
