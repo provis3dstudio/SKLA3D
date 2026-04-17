@@ -6498,6 +6498,12 @@
         "name": "Стели 1236",
         "file": "models/stele/cn182c3f11ca_tkf.glb",
         "thumbnail": "models/stele/thumbnails/1236-1776436678479-8do.jpg"
+      },
+      {
+        "id": "stele_1776436687310_gpehb",
+        "name": "Стели 1237",
+        "file": "models/stele/cn305980e101_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/1237-1776436684998-yru.jpg"
       }
     ],
     "gravePart": [
