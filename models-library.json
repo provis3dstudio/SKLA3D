@@ -564,6 +564,12 @@
         "name": "Стели 247",
         "file": "models/stele/cna14f5d4ca1_tkf.glb",
         "thumbnail": "models/stele/thumbnails/247-1776430759749-qc3.jpg"
+      },
+      {
+        "id": "stele_1776430764077_cl15w",
+        "name": "Стели 248",
+        "file": "models/stele/cn5a603bd700_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/248-1776430762712-ugj.jpg"
       }
     ],
     "gravePart": [
