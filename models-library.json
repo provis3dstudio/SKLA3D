@@ -5358,6 +5358,12 @@
         "name": "Стели 1046",
         "file": "models/stele/cna2406935fc_tkf.glb",
         "thumbnail": "models/stele/thumbnails/1046-1776435686965-jcf.jpg"
+      },
+      {
+        "id": "stele_1776435693173_g2gtz",
+        "name": "Стели 1047",
+        "file": "models/stele/cn59be1f11aa_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/1047-1776435690887-6qn.jpg"
       }
     ],
     "gravePart": [
