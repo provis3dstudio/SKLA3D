@@ -3504,6 +3504,12 @@
         "name": "Стели 737",
         "file": "models/stele/cna79e82b5d4_tkf.glb",
         "thumbnail": "models/stele/thumbnails/737-1776433963741-at0.jpg"
+      },
+      {
+        "id": "stele_1776433969487_prz1m",
+        "name": "Стели 738",
+        "file": "models/stele/cn03c790e5e6_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/738-1776433967420-tda.jpg"
       }
     ],
     "gravePart": [
