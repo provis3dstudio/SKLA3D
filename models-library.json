@@ -4482,6 +4482,12 @@
         "name": "Стели 900",
         "file": "models/stele/cn8117ded3ca_tkf.glb",
         "thumbnail": "models/stele/thumbnails/900-1776434991611-y9i.jpg"
+      },
+      {
+        "id": "stele_1776434997341_gvmok",
+        "name": "Стели 901",
+        "file": "models/stele/cnf9d92acf2c_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/901-1776434995168-cq8.jpg"
       }
     ],
     "gravePart": [
