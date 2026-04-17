@@ -8238,6 +8238,12 @@
         "name": "Стели 1526",
         "file": "models/stele/cn4bb3815a39_tkf.glb",
         "thumbnail": "models/stele/thumbnails/1526-1776444375486-fnd.jpg"
+      },
+      {
+        "id": "stele_1776444383091_brwio",
+        "name": "Стели 1527",
+        "file": "models/stele/cne4be183d3e_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/1527-1776444380492-zza.jpg"
       }
     ],
     "gravePart": [
