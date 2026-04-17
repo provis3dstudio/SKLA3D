@@ -1770,6 +1770,12 @@
         "name": "Стели 448",
         "file": "models/stele/cn4a911843ae_tkf.glb",
         "thumbnail": "models/stele/thumbnails/448-1776431578441-jyz.jpg"
+      },
+      {
+        "id": "stele_1776431584435_pbrkr",
+        "name": "Стели 449",
+        "file": "models/stele/cnf07b74b0ae_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/449-1776431582449-bbw.jpg"
       }
     ],
     "gravePart": [
