@@ -2130,6 +2130,12 @@
         "name": "Стели 508",
         "file": "models/stele/cnfcc581183d_tkf.glb",
         "thumbnail": "models/stele/thumbnails/508-1776431819540-xbp.jpg"
+      },
+      {
+        "id": "stele_1776431826086_cr40o",
+        "name": "Стели 509",
+        "file": "models/stele/cn5f3da81c4f_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/509-1776431823477-144.jpg"
       }
     ],
     "gravePart": [
