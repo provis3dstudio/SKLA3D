@@ -8208,6 +8208,12 @@
         "name": "Стели 1521",
         "file": "models/stele/cnd3ebfa11ef_tkf.glb",
         "thumbnail": "models/stele/thumbnails/1521-1776444351117-544.jpg"
+      },
+      {
+        "id": "stele_1776444358069_kvnsi",
+        "name": "Стели 1522",
+        "file": "models/stele/cn15cc5d765a_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/1522-1776444355627-k1u.jpg"
       }
     ],
     "gravePart": [
