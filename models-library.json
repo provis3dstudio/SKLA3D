@@ -2016,6 +2016,12 @@
         "name": "Стели 489",
         "file": "models/stele/cnf25eada37f_tkf.glb",
         "thumbnail": "models/stele/thumbnails/489-1776431743458-9f4.jpg"
+      },
+      {
+        "id": "stele_1776431749405_m1v40",
+        "name": "Стели 490",
+        "file": "models/stele/cn906c183acb_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/490-1776431747460-qsb.jpg"
       }
     ],
     "gravePart": [
