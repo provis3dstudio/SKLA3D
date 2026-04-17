@@ -5238,6 +5238,12 @@
         "name": "Стели 1026",
         "file": "models/stele/cnde63c51e7a_tkf.glb",
         "thumbnail": "models/stele/thumbnails/1026-1776435601407-2cp.jpg"
+      },
+      {
+        "id": "stele_1776435607846_hogid",
+        "name": "Стели 1027",
+        "file": "models/stele/cn478d0f0fb6_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/1027-1776435605642-418.jpg"
       }
     ],
     "gravePart": [
