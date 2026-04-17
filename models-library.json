@@ -5538,6 +5538,12 @@
         "name": "Стели 1076",
         "file": "models/stele/cn4d65abfadd_tkf.glb",
         "thumbnail": "models/stele/thumbnails/1076-1776435820537-9lv.jpg"
+      },
+      {
+        "id": "stele_1776435827517_94t3h",
+        "name": "Стели 1077",
+        "file": "models/stele/cn9465864419_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/1077-1776435825272-lod.jpg"
       }
     ],
     "gravePart": [
