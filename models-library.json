@@ -8148,6 +8148,12 @@
         "name": "Стели 1511",
         "file": "models/stele/cn0609ecd6ba_tkf.glb",
         "thumbnail": "models/stele/thumbnails/1511-1776444307935-abt.jpg"
+      },
+      {
+        "id": "stele_1776444314976_sft0e",
+        "name": "Стели 1512",
+        "file": "models/stele/cn3ba16fff3a_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/1512-1776444312574-9a4.jpg"
       }
     ],
     "gravePart": [
