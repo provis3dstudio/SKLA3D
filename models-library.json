@@ -2070,6 +2070,12 @@
         "name": "Стели 498",
         "file": "models/stele/cn6a9b8735c2_tkf.glb",
         "thumbnail": "models/stele/thumbnails/498-1776431779454-6ql.jpg"
+      },
+      {
+        "id": "stele_1776431785650_buktr",
+        "name": "Стели 499",
+        "file": "models/stele/cn8fd07994ae_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/499-1776431783448-9r7.jpg"
       }
     ],
     "gravePart": [
