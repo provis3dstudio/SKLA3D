@@ -4470,6 +4470,12 @@
         "name": "Стели 898",
         "file": "models/stele/cnf48d0462b9_tkf.glb",
         "thumbnail": "models/stele/thumbnails/898-1776434984421-hcv.jpg"
+      },
+      {
+        "id": "stele_1776434989783_z3pit",
+        "name": "Стели 899",
+        "file": "models/stele/cnf071776e00_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/899-1776434987867-4js.jpg"
       }
     ],
     "gravePart": [
