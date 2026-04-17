@@ -5412,6 +5412,12 @@
         "name": "Стели 1055",
         "file": "models/stele/cnc8c6c86517_tkf.glb",
         "thumbnail": "models/stele/thumbnails/1055-1776435724968-8r3.jpg"
+      },
+      {
+        "id": "stele_1776435731463_nai1m",
+        "name": "Стели 1056",
+        "file": "models/stele/cn3701a0824b_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/1056-1776435729347-u59.jpg"
       }
     ],
     "gravePart": [
