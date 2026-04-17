@@ -4518,6 +4518,12 @@
         "name": "Стели 906",
         "file": "models/stele/cn68f1c69216_tkf.glb",
         "thumbnail": "models/stele/thumbnails/906-1776435014286-8iu.jpg"
+      },
+      {
+        "id": "stele_1776435019799_7sx8o",
+        "name": "Стели 907",
+        "file": "models/stele/cn2054be52e9_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/907-1776435018051-q8x.jpg"
       }
     ],
     "gravePart": [
