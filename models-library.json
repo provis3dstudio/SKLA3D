@@ -1590,6 +1590,12 @@
         "name": "Стели 418",
         "file": "models/stele/cnce8c1c9adc_tkf.glb",
         "thumbnail": "models/stele/thumbnails/418-1776431452449-l23.jpg"
+      },
+      {
+        "id": "stele_1776431458338_ogo0b",
+        "name": "Стели 419",
+        "file": "models/stele/cndd0581e3ac_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/419-1776431456449-jia.jpg"
       }
     ],
     "gravePart": [
