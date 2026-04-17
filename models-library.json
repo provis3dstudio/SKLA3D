@@ -1392,6 +1392,12 @@
         "name": "Стели 385",
         "file": "models/stele/cnd3e0d75f88_tkf.glb",
         "thumbnail": "models/stele/thumbnails/385-1776431316463-hz0.jpg"
+      },
+      {
+        "id": "stele_1776431322338_zorwu",
+        "name": "Стели 386",
+        "file": "models/stele/cn13052c673f_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/386-1776431320456-qz8.jpg"
       }
     ],
     "gravePart": [
