@@ -1500,6 +1500,12 @@
         "name": "Стели 403",
         "file": "models/stele/cn2139b09036_tkf.glb",
         "thumbnail": "models/stele/thumbnails/403-1776431391456-f9p.jpg"
+      },
+      {
+        "id": "stele_1776431397341_7c2h1",
+        "name": "Стели 404",
+        "file": "models/stele/cnc09e245358_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/404-1776431395481-pat.jpg"
       }
     ],
     "gravePart": [
