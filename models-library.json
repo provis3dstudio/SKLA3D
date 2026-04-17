@@ -246,6 +246,12 @@
         "name": "Cossacs_6_S",
         "file": "models/stele/Cossacs_6_S.glb",
         "thumbnail": "models/stele/thumbnails/Cossacs_6_S-1775822848514.jpg"
+      },
+      {
+        "id": "stele_1776430608457_kxwvr",
+        "name": "Стели 195",
+        "file": "models/stele/cnd653c70d8d_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/195-1776430607342-bbf.jpg"
       }
     ],
     "gravePart": [
