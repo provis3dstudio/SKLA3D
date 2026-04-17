@@ -1668,6 +1668,12 @@
         "name": "Стели 431",
         "file": "models/stele/cn911a6c03df_tkf.glb",
         "thumbnail": "models/stele/thumbnails/431-1776431507450-6f5.jpg"
+      },
+      {
+        "id": "stele_1776431513599_vwoo7",
+        "name": "Стели 432",
+        "file": "models/stele/cnccbe6d5367_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/432-1776431511445-yr9.jpg"
       }
     ],
     "gravePart": [
