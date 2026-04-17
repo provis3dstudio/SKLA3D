@@ -727,6 +727,12 @@
         "name": "1",
         "file": "models/additionalElements/1.glb",
         "thumbnail": "models/additionalElements/thumbnails/1-1776279833280.jpg"
+      },
+      {
+        "id": "additionalElements_1776418486507_vuya1",
+        "name": "1 df1f3c54fc8c_pf",
+        "file": "models/additionalElements/df1f3c54fc8c_pf.glb",
+        "thumbnail": "models/additionalElements/thumbnails/1-df1f3c54fc8c_pf-1776418484576.jpg"
       }
     ]
   }
