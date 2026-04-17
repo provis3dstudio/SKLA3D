@@ -4500,6 +4500,12 @@
         "name": "Стели 903",
         "file": "models/stele/cnaae0db0139_tkf.glb",
         "thumbnail": "models/stele/thumbnails/903-1776435002909-xue.jpg"
+      },
+      {
+        "id": "stele_1776435008759_0c9rn",
+        "name": "Стели 904",
+        "file": "models/stele/cn71c461a30e_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/904-1776435006586-4qx.jpg"
       }
     ],
     "gravePart": [
