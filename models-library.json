@@ -270,6 +270,12 @@
         "name": "Стели 198",
         "file": "models/stele/cn047a002553_tkf.glb",
         "thumbnail": "models/stele/thumbnails/198-1776430615719-eka.jpg"
+      },
+      {
+        "id": "stele_1776430619787_1suho",
+        "name": "Стели 199",
+        "file": "models/stele/cn5b484ba927_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/199-1776430618606-tzx.jpg"
       }
     ],
     "gravePart": [
