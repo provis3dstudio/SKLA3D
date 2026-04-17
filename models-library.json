@@ -6396,6 +6396,12 @@
         "name": "Стели 1219",
         "file": "models/stele/cnb19aefc021_tkf.glb",
         "thumbnail": "models/stele/thumbnails/1219-1776436568190-4uv.jpg"
+      },
+      {
+        "id": "stele_1776436576737_85pm6",
+        "name": "Стели 1220",
+        "file": "models/stele/cn7730031744_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/1220-1776436574511-ws3.jpg"
       }
     ],
     "gravePart": [
