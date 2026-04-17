@@ -6240,6 +6240,12 @@
         "name": "Стели 1193",
         "file": "models/stele/cna40b8763cd_tkf.glb",
         "thumbnail": "models/stele/thumbnails/1193-1776436401364-evi.jpg"
+      },
+      {
+        "id": "stele_1776436410157_axnat",
+        "name": "Стели 1194",
+        "file": "models/stele/cnafb27f361b_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/1194-1776436407976-o3l.jpg"
       }
     ],
     "gravePart": [
