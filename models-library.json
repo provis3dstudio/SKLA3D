@@ -2106,6 +2106,12 @@
         "name": "Стели 504",
         "file": "models/stele/cn6332d27e05_tkf.glb",
         "thumbnail": "models/stele/thumbnails/504-1776431803450-tdc.jpg"
+      },
+      {
+        "id": "stele_1776431809474_gypbq",
+        "name": "Стели 505",
+        "file": "models/stele/cnbf4ed8ab31_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/505-1776431807540-2rq.jpg"
       }
     ],
     "gravePart": [
