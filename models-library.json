@@ -1236,6 +1236,12 @@
         "name": "Стели 359",
         "file": "models/stele/cn5b18661db0_tkf.glb",
         "thumbnail": "models/stele/thumbnails/359-1776431208442-w6j.jpg"
+      },
+      {
+        "id": "stele_1776431214331_4vsyy",
+        "name": "Стели 360",
+        "file": "models/stele/cna2117045f6_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/360-1776431212555-769.jpg"
       }
     ],
     "gravePart": [
