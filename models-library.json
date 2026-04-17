@@ -1488,6 +1488,12 @@
         "name": "Стели 401",
         "file": "models/stele/cn5239c59ef9_tkf.glb",
         "thumbnail": "models/stele/thumbnails/401-1776431382613-myx.jpg"
+      },
+      {
+        "id": "stele_1776431389375_mmwev",
+        "name": "Стели 402",
+        "file": "models/stele/cnff8548b5a3_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/402-1776431387472-zso.jpg"
       }
     ],
     "gravePart": [
