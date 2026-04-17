@@ -726,6 +726,12 @@
         "name": "Стели 274",
         "file": "models/stele/cna202f5efe3_tkf.glb",
         "thumbnail": "models/stele/thumbnails/274-1776430850471-1t8.jpg"
+      },
+      {
+        "id": "stele_1776430855750_lbz4t",
+        "name": "Стели 275",
+        "file": "models/stele/cn44377f846b_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/275-1776430854473-jlf.jpg"
       }
     ],
     "gravePart": [
