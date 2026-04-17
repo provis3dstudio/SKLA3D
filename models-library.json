@@ -1518,6 +1518,12 @@
         "name": "Стели 406",
         "file": "models/stele/cnc520bcc209_tkf.glb",
         "thumbnail": "models/stele/thumbnails/406-1776431403459-wny.jpg"
+      },
+      {
+        "id": "stele_1776431409382_idv38",
+        "name": "Стели 407",
+        "file": "models/stele/cn49b714e599_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/407-1776431407445-pv5.jpg"
       }
     ],
     "gravePart": [
