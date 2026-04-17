@@ -2826,6 +2826,12 @@
         "name": "Стели 624",
         "file": "models/stele/cn2e1f91f3c6_tkf.glb",
         "thumbnail": "models/stele/thumbnails/624-1776432418403-z9v.jpg"
+      },
+      {
+        "id": "stele_1776432426805_bh7tm",
+        "name": "Стели 625",
+        "file": "models/stele/cnad7adc33bc_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/625-1776432424575-s59.jpg"
       }
     ],
     "gravePart": [
