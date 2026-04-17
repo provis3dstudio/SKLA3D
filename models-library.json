@@ -4548,6 +4548,12 @@
         "name": "Стели 911",
         "file": "models/stele/cn7ab8ba8ec5_tkf.glb",
         "thumbnail": "models/stele/thumbnails/911-1776435032534-8fx.jpg"
+      },
+      {
+        "id": "stele_1776435038091_uz73x",
+        "name": "Стели 912",
+        "file": "models/stele/cn0d29141a9c_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/912-1776435036131-tzq.jpg"
       }
     ],
     "gravePart": [
