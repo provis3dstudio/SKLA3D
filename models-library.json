@@ -5628,6 +5628,12 @@
         "name": "Стели 1091",
         "file": "models/stele/cn9dc7e4db43_tkf.glb",
         "thumbnail": "models/stele/thumbnails/1091-1776435886494-v58.jpg"
+      },
+      {
+        "id": "stele_1776435895075_abuep",
+        "name": "Стели 1092",
+        "file": "models/stele/cn7950fe8eac_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/1092-1776435891195-kvq.jpg"
       }
     ],
     "gravePart": [
