@@ -1068,6 +1068,12 @@
         "name": "Стели 331",
         "file": "models/stele/cne274c2cde8_tkf.glb",
         "thumbnail": "models/stele/thumbnails/331-1776431077469-5vf.jpg"
+      },
+      {
+        "id": "stele_1776431083252_tagiu",
+        "name": "Стели 332",
+        "file": "models/stele/cn6adac915f8_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/332-1776431081461-j8b.jpg"
       }
     ],
     "gravePart": [
