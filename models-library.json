@@ -3810,6 +3810,12 @@
         "name": "Стели 788",
         "file": "models/stele/cn1cbb6a0b5c_tkf.glb",
         "thumbnail": "models/stele/thumbnails/788-1776434181891-8g1.jpg"
+      },
+      {
+        "id": "stele_1776434189374_u6jhl",
+        "name": "Стели 789",
+        "file": "models/stele/cn65e3c7baf4_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/789-1776434186911-ort.jpg"
       }
     ],
     "gravePart": [
