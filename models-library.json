@@ -5394,6 +5394,12 @@
         "name": "Стели 1052",
         "file": "models/stele/cn0920f637da_tkf.glb",
         "thumbnail": "models/stele/thumbnails/1052-1776435712151-6ar.jpg"
+      },
+      {
+        "id": "stele_1776435718297_hofiz",
+        "name": "Стели 1053",
+        "file": "models/stele/cn87db81f18e_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/1053-1776435716169-l3f.jpg"
       }
     ],
     "gravePart": [
