@@ -3888,6 +3888,12 @@
         "name": "Стели 801",
         "file": "models/stele/cn9d7e3689ce_tkf.glb",
         "thumbnail": "models/stele/thumbnails/801-1776434237275-uw3.jpg"
+      },
+      {
+        "id": "stele_1776434243268_bconv",
+        "name": "Стели 802",
+        "file": "models/stele/cn2eadf219bf_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/802-1776434241474-v50.jpg"
       }
     ],
     "gravePart": [
