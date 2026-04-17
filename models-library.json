@@ -3804,6 +3804,12 @@
         "name": "Стели 787",
         "file": "models/stele/cn4020a4460f_tkf.glb",
         "thumbnail": "models/stele/thumbnails/787-1776434178070-42v.jpg"
+      },
+      {
+        "id": "stele_1776434184806_dluij",
+        "name": "Стели 788",
+        "file": "models/stele/cn1cbb6a0b5c_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/788-1776434181891-8g1.jpg"
       }
     ],
     "gravePart": [
