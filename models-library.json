@@ -9499,6 +9499,12 @@
         "name": "Додаткові елементи 160",
         "file": "models/additional/gk5b251ff184_bnf.glb",
         "thumbnail": "models/additional/thumbnails/160-1776446497378-jps.jpg"
+      },
+      {
+        "id": "additionalElements_1776446503633_tn4m7",
+        "name": "Додаткові елементи 161",
+        "file": "models/additional/gk64e057b7ff_bnf.glb",
+        "thumbnail": "models/additional/thumbnails/161-1776446501369-eho.jpg"
       }
     ]
   }
