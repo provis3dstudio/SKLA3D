@@ -3054,6 +3054,12 @@
         "name": "Стели 662",
         "file": "models/stele/cnb2590572df_tkf.glb",
         "thumbnail": "models/stele/thumbnails/662-1776432625240-ruo.jpg"
+      },
+      {
+        "id": "stele_1776432634033_9klp2",
+        "name": "Стели 663",
+        "file": "models/stele/cncec3442c29_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/663-1776432629640-3ov.jpg"
       }
     ],
     "gravePart": [
