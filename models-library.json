@@ -3990,6 +3990,12 @@
         "name": "Стели 818",
         "file": "models/stele/cneca0db1d2b_tkf.glb",
         "thumbnail": "models/stele/thumbnails/818-1776434305481-77u.jpg"
+      },
+      {
+        "id": "stele_1776434311292_bmcil",
+        "name": "Стели 819",
+        "file": "models/stele/cnfaf9398d18_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/819-1776434309497-gmb.jpg"
       }
     ],
     "gravePart": [
