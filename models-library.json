@@ -751,6 +751,12 @@
         "name": "Додаткові елементи 019",
         "file": "models/additional/dfebfad245a2_pf.glb",
         "thumbnail": "models/additional/thumbnails/019-1776430172925-yc6.jpg"
+      },
+      {
+        "id": "additionalElements_1776430205796_2qgeu",
+        "name": "Додаткові елементи 020",
+        "file": "models/additional/df1f3c54fc8c_pf.glb",
+        "thumbnail": "models/additional/thumbnails/020-1776430204221-1qk.jpg"
       }
     ]
   }
