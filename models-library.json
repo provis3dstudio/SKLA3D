@@ -2550,6 +2550,12 @@
         "name": "Стели 578",
         "file": "models/stele/cna841331869_tkf.glb",
         "thumbnail": "models/stele/thumbnails/578-1776432126587-3pm.jpg"
+      },
+      {
+        "id": "stele_1776432133550_skh3w",
+        "name": "Стели 579",
+        "file": "models/stele/cn49837fc1c5_tkf.glb",
+        "thumbnail": "models/stele/thumbnails/579-1776432131071-kdv.jpg"
       }
     ],
     "gravePart": [
