@@ -8238,6 +8238,12 @@
         "name": "1",
         "file": "models/grave/1.glb",
         "thumbnail": "models/grave/thumbnails/1-1776279366566.jpg"
+      },
+      {
+        "id": "gravePart_1778749338910_lhy1a",
+        "name": "Надгробні плити 011",
+        "file": "models/grave/Gojo.glb",
+        "thumbnail": "models/grave/thumbnails/011-1778749334761-3k2.jpg"
       }
     ],
     "fence_decor": [
